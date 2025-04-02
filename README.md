@@ -47,11 +47,10 @@ This is a **minor project** on **Gold Price Prediction**, developed as a **group
    ```
 
 ## 🤝 Contributors
-- **Sohan Dhungel** *(Your role here)*
-- **Other Team Members** *(Add names here)*
+- **Sohan Dhungel** *
+- **Other Team Members** 
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ---
 Feel free to contribute and enhance the project! 🚀
