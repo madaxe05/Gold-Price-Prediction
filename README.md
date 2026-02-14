@@ -47,7 +47,7 @@ This is a **minor project** on **Gold Price Prediction**, developed as a **group
    ```
 
 ## 🤝 Contributors
-- **Sohan Dhungel** *
+- **Sohan Dhungel** 
 - **Suman Shrestha**
 - **Suhel Husen**
 
